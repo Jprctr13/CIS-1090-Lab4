@@ -18,6 +18,14 @@ function max(a, b){
 
 //(YOUR WORK HERE)
 
+function min(a, b){
+    if ( a < b ){
+        return a;
+    } else {
+        return b;
+    }
+}
+
 //STEP 3    Commit this code to your GitHub!
 
 //Run some tests on the max function
